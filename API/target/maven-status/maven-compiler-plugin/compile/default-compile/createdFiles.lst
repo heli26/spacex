@@ -1,0 +1,8 @@
+Order\DC\OrderGenerator\Entities\Registration.class
+Order\DC\OrderGenerator\api\SatelliteController.class
+Order\DC\OrderGenerator\services\SatelliteService.class
+Order\DC\OrderGenerator\models\Satellite.class
+Order\DC\OrderGenerator\Entities\Result.class
+Order\DC\OrderGenerator\SatelliteApplication.class
+Order\DC\OrderGenerator\repositories\ISatelliteRepository.class
+Order\DC\OrderGenerator\repositories\SatelliteRepository.class
